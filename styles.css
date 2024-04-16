@@ -521,6 +521,11 @@ ul li {
 	height: 25px;
   font-family: Roboto;
 }
+.hero1 .college{
+  font-size: 1vmax;
+  font-family: DarkNet1;
+  color: white;
+}
 
 li i {
 	margin-right: 20px;
@@ -831,6 +836,9 @@ ul a li{
   .main{
     width: 100%;
     overflow: hidden;
+  }
+	.hero1 .college{
+    text-align: center;
   }
   .nav .none{
     display: initial;
